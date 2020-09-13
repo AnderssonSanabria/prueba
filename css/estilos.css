@@ -8,10 +8,11 @@
   padding: 0;
   overflow: hidden;
   position: fixed;
+  box-shadow:1px 1px 10px 1px cadetblue ;
   left: 0;
   top: 0;
   width: 100%;
-  background: #333;
+  background: #295c97;
 }
 .indice{
   float: left;
@@ -22,8 +23,13 @@ li a{
   text-align: center;
   padding: 14px;
   text-decoration: none;
-  background: #333;
+  background: #295c97;
+  text-shadow: 1px 1px 10px 10px black;
 }
 section{
   margin-top: 50px;
 }
+#home{
+  text-transform: capitalize;
+}
+
